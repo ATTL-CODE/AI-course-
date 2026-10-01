@@ -1,0 +1,4 @@
+# Labs 1 to 4 use only the Python standard library.
+# Lab 5 (neural models) needs these. CPU is enough, no GPU required.
+numpy>=1.24
+torch>=2.0
